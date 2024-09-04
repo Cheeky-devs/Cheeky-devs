@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jkt
-- 👀 I’m interested in creating fintech apps and learning data science
+- 👀 I’m interested in Machine Learning Engineer as a career and implementing them in creation of fintech apps
 - 🌱 I’m currently learning flutter development and data science with python
 - 💞️ I’m looking to collaborate on fintech development projects
 - 📫 You can find me at jktfintechlabs@gmail.com
